@@ -1,4 +1,4 @@
-# Gaming Room Object Recognition
+# *GAMİNG ROOM OBJECT RECOGNITION*
 <img src="https://github.com/kerempurcek00/Machine_Learning_Projects/assets/82829270/089aa47a-22fd-4fc7-9f99-dc6fbb50825c" width="1000" height="500" />
 
 
@@ -6,7 +6,7 @@
 *In this project, a YOLOv4 algorithm is used to develop an object recognition system that identifies a monitor, chair, and computer case in a gaming room. YOLOv4 (You Only Look Once version 4) is a deep learning algorithm known for its speed and high accuracy in object detection. This project aims to detect and locate the specified objects using a custom-trained YOLOv4 model.*
 
 
-# Project Photos
+# PROJECT PHOTOS
 <p>
 <img src="https://github.com/kerempurcek00/Machine_Learning_Projects/assets/82829270/c4e984a8-6701-4895-b936-cf3bc6f9f7b4" width="500" height="400" />
   <span style="border-left: 1px solid #000; height: 300px; display: inline-block; margin: 0 10px;"></span>
